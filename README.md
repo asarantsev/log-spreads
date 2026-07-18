@@ -1,2 +1,2 @@
 # log-spreads
-Data and Code for A Class of New Time Series Models for Corporate Bonds 
+The data and R files and the output for the article by Jihyun Park and Andrey Sarantsev
