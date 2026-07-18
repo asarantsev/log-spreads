@@ -1,5 +1,7 @@
 # log-spreads
-The data and R files and the output for the article by Jihyun Park and Andrey Sarantsev.
+The data and R files and the output for the article by Jihyun Park and Andrey Sarantsev: arXiv:2410.22498
+New Time Series Models for Corporate Bond Log Yields 
+
 
 BofA-ICE-corporates-monthly.xlsx contains monthly data for BofA ICE rated corporate bond rates, monthly from December 1996.
 
